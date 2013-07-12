@@ -7,7 +7,7 @@ Building
 ========
 
 Building HELLO-WORLD.COB requres a COBOL compiler, such as
-[OpenCOBOL](http://www.opencobol.org), and make.
+[OpenCOBOL](http://www.opencobol.org), and Make.
 
     $ make
 
